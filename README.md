@@ -1,4 +1,4 @@
-# Coffee Marketplace
+# Node js on Express with Google OAuth implemented
 
-## This app implements a coffee marketplace, where buyers can upload their different coffee offerings and list them on the marketplace for buyers to peruse:
+## You can use this template as a starting point for a node app on express with google oauth already implemented. 
 
